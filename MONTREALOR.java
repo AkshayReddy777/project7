@@ -28,7 +28,7 @@ public class MONTREALOR extends JPanel implements ActionListener {
     private boolean upDirection = false;
     private boolean downDirection = false;
     private boolean inGame = true;
-
+//this is a tect input
     private Timer timer;
     private Image ball;
     private Image apple;
