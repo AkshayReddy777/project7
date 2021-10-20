@@ -28,7 +28,7 @@ public class MONTREALOR extends JPanel implements ActionListener {
     private boolean upDirection = false;
     private boolean downDirection = false;
     private boolean inGame = true;
-
+//inserting a text into this \line IN THE BRANCH2
     private Timer timer;
     private Image ball;
     private Image apple;
